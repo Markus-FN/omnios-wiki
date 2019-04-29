@@ -201,8 +201,7 @@ If you are making a manifest from scratch for a service, there is an
 easy to use tool called [manifold](http://code.google.com/p/manifold/)
 that will ask you some simple questions and create a manifest. If you
 have python installed, it's simply a case of running `sudo
-easy\_install Manifold` to install the tool, and then `manifold
-<filename.xml>` to create the manifest.
+easy\_install Manifold` to install the tool, and then `manifold <filename.xml>` to create the manifest.
 
 Additionally, Joyent's Max Bruning reviews the basics: [Documentation
 for SMF](http://joyent.com/blog/documentation-for-smf)
